@@ -18,8 +18,6 @@ public class Customer {
         this.phone=phone;
     }
 
-
-
     public Long getId() {
         return id;
     }
